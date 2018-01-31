@@ -57,6 +57,12 @@ All parties involved will receive a grade of F for the assignment.  Additionally
 
 <hr/>
 
+**Slack** <br/>
+Be sure to sign up for our class #Slack channel by registering at: http://albertcervantes.com/cs4220/slack <br/>
+Once registered, you will be invited to join the cs4220-spring-2018 channel.
+
+<hr/>
+
 ### Schedule:
 
 **Week 1 - 01/28**
