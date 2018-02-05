@@ -13,6 +13,8 @@ Sunday <br/>
 Time: 4:00pm - 6:30pm <br/>
 Location: King Hall - Lecture Hall 2
 
+**Videos** <br/>
+[Week 1 - Sunday, January 28, 2018](http://albertcervantes.com/cs4220/lectures/cs4220-2018-01-28.mp4)
 
 **Instructors:** <br/>
 Cydney Auman <br/>
