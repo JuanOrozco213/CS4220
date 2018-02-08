@@ -73,7 +73,7 @@ sentenceCase: I watched the storm, so beautiful yet terrific. The face of the Mo
 capitalizedCase: I Watched The Storm, So Beautiful Yet Terrific. The Face Of The Moon Was In Shadow.
 alternatingCase: i wAtChEd tHe sToRm, So bEaUtIfUl yEt tErRiFiC. tHe fAcE Of tHe mOoN WaS In sHaDoW.
 titleCase: I Watched the Storm, So Beautiful Yet Terrific. The Face of the Moon Was in Shadow.
-inverseCase: i wATCHED THE sTORM, sO bEAUTIFUL yET tERRIFIC. tHE fACE OF THE mOON wAS IN sHADOW.
+inverseCase: i wATCHED tHE sTORM, sO bEAUTIFUL yET tERRIFIC. tHE fACE oF tHE mOON wAS iN sHADOW.
 ```
 
 ### Question 2 - Objects
