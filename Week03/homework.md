@@ -16,11 +16,11 @@ Each group should look like:
     }`
 
 The class should have the following methods:
-- constructor: Accepts an array of group objects or if nothing is passed defaults to an empty array <br />
+- constructor: accepts an array of group objects or if nothing is passed - defaults to an empty array <br />
 - addGroup(group): adds a group <br />
 - removeGroup(groupName): removes a group by the name of the group <br />
-- addMember(groupName, memberName): adds a member to the group <br />
-- removeMember(groupName, memberName): removes a member from the group  <br />
+- addMember(groupName, memberName): adds a member to the specified group <br />
+- removeMember(groupName, memberName): removes a member from the specified group  <br />
 - print: prints the groups as formatted in the example below
 
 ```
@@ -75,6 +75,8 @@ The class should have the following methods:
 
 
 #### 2. Write a function called displayName that takes an object as an argument and prints the person's first and last name. Use object destructuring in function argument.  Use template strings when printing the first and last name. (10 pts)
+<br/>
+* Note that in order to get full credit - you must use both object destructing and template strings.
 ```
     const person = {
         first: 'Elon',
