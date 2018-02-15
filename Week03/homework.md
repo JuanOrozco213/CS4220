@@ -77,7 +77,8 @@ The class should have the following methods:
 #### 2. Write a function called displayName that takes an object as an argument and prints the person's first and last name. Use object destructuring in function argument.  Use template strings when printing the first and last name. (10 pts)
 <br/>
 * Note that in order to get full credit - you must use both object destructing and template strings.
-```
+<br/>
+
     const person = {
         first: 'Elon',
         last: 'Musk',
@@ -85,7 +86,7 @@ The class should have the following methods:
         company: 'Space X'
     }
     displayName(person)  // Elon Musk
-```
+
 
 
 #### 3.  Write a function called combineName that takes an object, array of keys to combine and a destination key. It returns an object with the correct keys combined. (20 pts)
