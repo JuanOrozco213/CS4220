@@ -15,7 +15,8 @@ Location: King Hall - Lecture Hall 2
 
 **Videos** <br/>
 [Week 1 - Sunday, January 28, 2018](http://albertcervantes.com/cs4220/lectures/cs4220-2018-01-28.mp4) <br/>
-Week 2 - Monday, February 5, 2018 [Part 1](http://albertcervantes.com/cs4220/lectures/cs4220-2018-02-05-part-1.mp4) [Part 2](http://albertcervantes.com/cs4220/lectures/cs4220-2018-02-05-part-2.mp4)
+Week 2 - Monday, February 5, 2018 [Part 1](http://albertcervantes.com/cs4220/lectures/cs4220-2018-02-05-part-1.mp4) [Part 2](http://albertcervantes.com/cs4220/lectures/cs4220-2018-02-05-part-2.mp4) <br/>
+Week 3 - Sunday, February 11, 2018 [Video Lecture](http://cydneymikel.com/CS4220/zoom_0.mp4)
 
 **Instructors:** <br/>
 Cydney Auman <br/>
