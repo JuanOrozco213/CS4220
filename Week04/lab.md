@@ -14,6 +14,7 @@ This function gets the response time from the http request. it calls back to the
 This function should call getTimes(...) and then orders the times.
 HINT: use new Date()
 
+```
     const sample = [
         'http://www.google.com/',
         'http://www.spotify.com/us/',
@@ -27,6 +28,7 @@ HINT: use new Date()
     //     {  url: 'https://twitter.com/', time: 31 }
     //     {  url: 'https://www.spotify.com/us/', time: 279 }
     // ]
+```
 
 #### 2. Using Promises print an object that has success and error keys where the value is the URLs that results in success (200 or 300) or errors (404).
 
