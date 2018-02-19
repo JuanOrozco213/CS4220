@@ -34,10 +34,10 @@ Note - The exact times do not matter - only make sure they are ordered low to hi
     // ]
 ```
 
-#### 2. Using Promises print an object that has success and error keys where the value is the URLs that results in success (200 or 300) or errors (404).
+#### 2. Using Promises print an object that has success and error keys where the value is the URLs that results in success (200 or 300) or errors (400 or 500).
 
     // Example Printout
     // {
-    //     success: ['https://www.google.com/',            'https://www.spotify.com/us/''https://twitter.com /' ],
+    //     success: ['https://www.google.com/', 'https://www.spotify.com/us/', 'https://twitter.com /' ],
     //     error: [''http://google.com/nothing']
     // }
