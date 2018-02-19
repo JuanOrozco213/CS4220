@@ -2,6 +2,7 @@
 Complete all the problems below. 50 Points total.
 
 - Use ES6 syntax. Make sure you are using let/const properly.
+- Use the built in http api.  Do not use any npm modules.
 
 ---
 
