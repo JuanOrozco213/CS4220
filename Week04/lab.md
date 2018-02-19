@@ -12,7 +12,7 @@ Requirements
 This function gets the response time from the http request. it calls back to the the calling function.
 - orderTimes(sample)
 This function should call getTimes(...) and then order the times.
-HINT: use new Date()
+- HINT: use new Date()
 
 <br />
 Note - The exact times do not matter - only make sure they are ordered low to high.
