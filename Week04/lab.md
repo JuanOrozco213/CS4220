@@ -6,13 +6,13 @@ Complete all the problems below. 50 Points total.
 
 ---
 
-#### 1. Using callbacks print the URLs in order according to their response time. (25 pts)
+#### 1. Using callbacks print the URLs and their response time. (25 pts)
 Requirements
 - Use Callbacks - Do not block or make a synchronous function for getting times. Just use `http.get`
 - getTimes(argument, callback)
 This function gets the response time from the http request. it calls back to the the calling function.
-- orderTimes(sample)
-This function should call getTimes(...) and then order the times.
+- printTimes(sample)
+This function should call getTimes(...) and after all response times are gathered - it should then print the times.
 - HINT: use new Date()
 
 <br />
