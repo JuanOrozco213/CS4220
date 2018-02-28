@@ -70,6 +70,36 @@ Once registered, you will be invited to join the cs4220-spring-2018 channel.
  - Installing Node.js / Setup development environment
  - Intro to Javascript
  <br/>
+ 
+ **Week 2 - 02/04**
+ - Properties, Strings, Objects and Arrays
+ - Intro to methods.
+ <br/>
+ 
+ **Week 3 - 02/11**
+ - Default values, Object Destructuring, Template Literals
+ - ES6 Classes
+ <br/>
+ 
+ **Week 4 - 02/18**
+ - Callbacks and Promises <br/>
+ - Intro to Node.js with http.get and fs
+ <br/>
+ 
+ **Week 5 - 02/25**
+- Understanding Node Modules
+- Crypto, Http, Request
+- Custom Modules
+ <br/>
+ 
+ **Week 6 - 03/04**
+ - Node Command Line Applications <br/>
+ - Understand and interacting with APIs
+ <br/>
+ 
+  **Week 8 - 03/25**
+ - MIDTERM <br/>
+ <br/>
 
 ### Online Resources
 
