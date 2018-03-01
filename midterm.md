@@ -1,7 +1,7 @@
 # ROUGH DRAFT - UPDATES and CHANGES will be made prior to Lecutre on Sunday 03/04 
 ---
 
-## MIDTERM 03/25 - 4:00PM to 6:30PM
+## MIDTERM 03/25 - 4:00PM to 6:30PM - KH Lecture Hall 2
 
 #### As a team create a custom node module that uses your selected API.
 
