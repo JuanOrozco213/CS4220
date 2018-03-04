@@ -1,9 +1,6 @@
-# ROUGH DRAFT - UPDATES and CHANGES will be made prior to Lecutre on Sunday 03/04
----
-
 ## MIDTERM 03/25 - 4:00PM to 6:30PM - KH Lecture Hall 2
 
-#### As a team create a custom node module that uses your selected API.
+#### As a team create a custom node module that uses your selected API.  Create a CLI that uses the custom node module to demo interacting with module.
 
 Students should break up into groups of 4-5 members.  Each group is responsible for selecting a web API.  Using that web API create a custom node module and CLI app to demonstrate interacting with the custom module.
 
