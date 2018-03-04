@@ -1,4 +1,4 @@
-# ROUGH DRAFT - UPDATES and CHANGES will be made prior to Lecutre on Sunday 03/04 
+# ROUGH DRAFT - UPDATES and CHANGES will be made prior to Lecutre on Sunday 03/04
 ---
 
 ## MIDTERM 03/25 - 4:00PM to 6:30PM - KH Lecture Hall 2
@@ -28,7 +28,12 @@ The module should export a method for fetching data by id. <br/>
 #### CLI Requirements
 Create a command line interface similar to the example ones from class.
 
-  - The CLI app should display a help menu by typing: ```node cli.js -h```
+  - The CLI app should display a help menu by typing: `node cli.js help`
+  - The CLI should include a search command `node cli.js search <item to be search>`
+  - The app should allow a user to select from a search result and then fetch details
+  - The app should display the details formatted cleanly
+  - The app should have a package.json
+
 <br/>
 * The CLI app should not contain the API URL or using any other module (the only exception is inquirer or yargs) than the one you have created.
 
@@ -49,13 +54,13 @@ Create a command line interface similar to the example ones from class.
 **Code Execution**
   - Code runs during presentation
   - There are no errors
-  - Code covers exactly what was detailed above
+  - Code covers/includes exactly what was detailed above for both the cusotm module and CLI
 
 **Q&A**
   - Team is able to answer questions from class or professors
 
 ---
-### Example APIs <br/> 
+### Example APIs <br/>
 (Limit of 2 teams per API)
 
 TV Maze
