@@ -25,7 +25,7 @@ The module should export a method for fetching data by id. <br/>
 <br/>
 * The user should never be enter a URL or using any other module that the one you have created.
 
-#### CLI Requirements
+### CLI Requirements
 Create a command line interface similar to the example ones from class.
 
   - The CLI app should display a help menu by typing: `node cli.js help`
