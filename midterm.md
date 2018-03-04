@@ -18,7 +18,7 @@ The module should have a package.json file that is properly filled out.
 The module should export a method for searching.
   - Given a search criteria it should return an an array that represent the result set. <br/>
     (EX: game title, city, character, actor/actress or artist)
-<br/>
+
 The module should export a method for fetching data by id. <br/>
   - Given an id of some item it should return an object representing the data requested) <br/>
   - (EX: game title, city, character, actor/actress or artist)
