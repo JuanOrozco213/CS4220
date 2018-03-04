@@ -58,7 +58,8 @@ Create a command line interface similar to the example ones from class.
 
 ---
 ### Example APIs <br/>
-(Limit of 2 teams per API)
+  - Review the selected API and make sure you are able to use it to fulfill the Midterm requirements.
+  - Limit of 2 teams per API
 
 TV Maze
 - https://www.tvmaze.com/api
