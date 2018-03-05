@@ -9,8 +9,8 @@
   - Run by typing: node cli.js play
 
 **(2) Automatically Shuffle and draw 5 cards**
-  - Use the draw() method from the deckofcards module already created in the class example
-  - DO NOT modify the draw() method in the app.js - there is no reason to touch that function
+  - Use the deck() and draw() methods from the deckofcards module already created in the class example
+  - ***DO NOT*** modify the draw() method in the app.js - there is no reason to touch that function
 
 **(3) Prompt the user and allow them to throw away up to 4 cards**
   - Use inquirer to create a prompt with a checkbox selection feature
