@@ -117,6 +117,13 @@ Goodreads API
 Zomato (Resturant API)
 - https://developers.zomato.com/documentation#/
 ---
+
+Yelp API
+- https://www.yelp.com/developers/documentation/v3
+
+##### Group 1 - Kevin, Cedric, Daniel, Maurice
+
+---
 Other APIs
 - https://github.com/toddmotto/public-apis
 
