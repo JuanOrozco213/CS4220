@@ -77,6 +77,8 @@ Spotify
 ---
 Musikki API
 - https://music-api.musikki.com/reference
+
+##### Group 1 - Manasi, Nivedha, Tirth, Jay
 ---
 Star Wars API
 - https://swapi.co/documentation
