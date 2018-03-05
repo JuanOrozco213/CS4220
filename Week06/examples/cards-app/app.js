@@ -17,6 +17,7 @@ const draw = (shuffle, n = 1) => {
         .catch(err => console.log(err))
 }
 
+// HINT for #3 in Lab
 const discardPrompt = (result) => {
     return inquirer.prompt([{
         type: 'checkbox',
@@ -27,10 +28,12 @@ const discardPrompt = (result) => {
     }])
 }
 
+// HINT for #4 in Lab
 const findAndRemove = (current, throwaway) => {
 
 }
 
+// HINT for #6 in Lab
 const print = cards => {
 
 }
