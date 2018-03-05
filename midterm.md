@@ -64,45 +64,57 @@ Create a command line interface similar to the example ones from class.
 TV Maze
 - https://www.tvmaze.com/api
 
+##### Group 1 - Damin, Yash, Parth, Abdullah, Hiral
+---
 The Movie Database API
 - https://www.themoviedb.org/documentation/api
-
+---
 Spotify
 - https://developer.spotify.com/web-api/
 
+##### Group 1 - Mirasol, Miguel, Matthew, Alyssa, Abbie
+##### Group 2 - Daniel, James, Victor, Tan, Francisco
+---
 Musikki API
 - https://music-api.musikki.com/reference
-
+---
 Star Wars API
 - https://swapi.co/documentation
 
+##### Group 1 - Bryan, Patrick, Gevorg, Kevin
+---
 Game of Thrones API
 - https://anapioficeandfire.com/Documentation
-
+---
 Marvel
 - https://developer.marvel.com/documentation/getting_started
 
+##### Group 1 - Vivek, Lovepreet, Harminder, Rishabh
+---
 Comic Vine
 - https://comicvine.gamespot.com/api/
-
+---
 Internet Gaming DB
 - https://igdb.github.io/api/
-
+---
 GiantBomb (Video Game API)
 - https://www.giantbomb.com/api/documentation
-
+---
 MetaWeather API
 - https://www.metaweather.com/api/
 
+##### GROUP 1 - Russell, Hue, MingYang, Raymond Chen, Walter Carbajal
+
+---
 Github
 - https://developer.github.com/v3/
-
+---
 Goodreads API
 - https://www.goodreads.com/api
-
+---
 Zomato (Resturant API)
 - https://developers.zomato.com/documentation#/
-
+---
 Other APIs
 - https://github.com/toddmotto/public-apis
 
