@@ -127,6 +127,8 @@ Goodreads API
 ---
 Zomato (Resturant API)
 - https://developers.zomato.com/documentation#/
+
+#### Group 1 - Dhruval, Kunal, Rajat, Ekta
 ---
 
 Yelp API
