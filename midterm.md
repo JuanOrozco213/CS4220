@@ -20,9 +20,9 @@ The module should export a method for fetching data by id. <br/>
   - Given an id of some item it should return an object representing the data requested) <br/>
   - (EX: game title, city, character, actor/actress or artist)
 
-<br/>
-* This custom module can use superagnet/request or similar modules to make the HTTP calls to your API.
-* Ideally you should be creating a config.json to hold the main portion of the url and API key (if your API requires one).
+**This custom module can use superagnet/request or similar modules to make the HTTP calls to your API.*
+
+**Ideally you should be creating a config.json to hold the main portion of the url and API key (if your API requires one).*
 
 ---
 ### CLI Requirements
@@ -34,8 +34,7 @@ Create a command line interface similar to the example ones from class.
   - The app should display the details formatted cleanly
   - The app should have a cli.js, app.js and package.json
 
-<br/>
-* The CLI portion should not contain the API URL.  The CLI should only being using your custom module, yargs, inquirer or color/formatting modules.
+**The CLI portion should not contain the API URL. The CLI should only being using your custom module (above), yargs, inquirer or color/formatting modules.*
 
 ---
 
