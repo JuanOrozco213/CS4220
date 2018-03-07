@@ -73,6 +73,8 @@ The Movie Database API
 - https://www.themoviedb.org/documentation/api
 
 ##### Group 1 - Bijan, Victor, Vitou, and Shivakumar
+##### Group 2 - 1) Angie, William, Alisha, Jurelly, Daniel
+
 ---
 Spotify
 - https://developer.spotify.com/web-api/
