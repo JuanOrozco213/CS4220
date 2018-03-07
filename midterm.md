@@ -104,6 +104,8 @@ Marvel
 - https://developer.marvel.com/documentation/getting_started
 
 ##### Group 1 - Vivek, Lovepreet, Harminder, Rishabh
+##### Group 2 - Aaron, Zolangi, Davis, Gonzalo, Benjamin
+
 ---
 Comic Vine
 - https://comicvine.gamespot.com/api/
@@ -136,6 +138,7 @@ Yelp API
 - https://www.yelp.com/developers/documentation/v3
 
 ##### Group 1 - Kevin, Cedric, Daniel, Maurice
+##### Group 2 - Barry, Jose, Juan, Xiaoye, Jesus
 
 ---
 Other APIs
