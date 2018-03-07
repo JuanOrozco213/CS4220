@@ -19,10 +19,11 @@ The module should export a method for searching.
 The module should export a method for fetching data by id. <br/>
   - Given an id of some item it should return an object representing the data requested) <br/>
   - (EX: game title, city, character, actor/actress or artist)
-<br/>
+
 <br/>
 * This custom module can use superagnet/request or similar modules to make the HTTP calls to your API.
 * Ideally you should be creating a config.json to hold the main portion of the url and API key (if your API requires one).
+
 ---
 ### CLI Requirements
 Create a command line interface similar to the example ones from class.
