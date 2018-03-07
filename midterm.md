@@ -29,10 +29,10 @@ Create a command line interface similar to the example ones from class.
   - The CLI should include a search command `node cli.js search <item to be search>`
   - The app should allow a user to select from a search result and then fetch details
   - The app should display the details formatted cleanly
-  - The app should have a package.json
+  - The app should have a cli.js, app.js and package.json
 
 <br/>
-* The CLI app should not contain the API URL or using any other module (the only exception is inquirer or yargs) than the one you have created.
+* The CLI portion should not contain the API URL.  The CLI should only being using your custom module, yargs, inquirer or color/formatting modules.
 
 ---
 
