@@ -68,6 +68,8 @@ TV Maze
 ---
 The Movie Database API
 - https://www.themoviedb.org/documentation/api
+
+##### Group 1 - Bijan, Victor, Vitou, and Shivakumar
 ---
 Spotify
 - https://developer.spotify.com/web-api/
@@ -84,10 +86,16 @@ Star Wars API
 - https://swapi.co/documentation
 
 ##### Group 1 - Bryan, Patrick, Gevorg, Kevin
+##### Group 2 - 1. Brian, Oz, Angelo, Juan, Julio
 ---
+
 Game of Thrones API
 - https://anapioficeandfire.com/Documentation
+
+##### Group 1 - Justin, Henry, Jonathan, Daniel
+
 ---
+
 Marvel
 - https://developer.marvel.com/documentation/getting_started
 
