@@ -67,6 +67,7 @@ TV Maze
 - https://www.tvmaze.com/api
 
 ##### Group 1 - Damin, Yash, Parth, Abdullah, Hiral
+##### Group 2 - Damin, Yash, Parth, Abdullah 
 ---
 The Movie Database API
 - https://www.themoviedb.org/documentation/api
@@ -84,7 +85,7 @@ Spotify
 Musikki API
 - https://music-api.musikki.com/reference
 
-##### Group 1 - Manasi, Nivedha, Tirth, Jay
+##### Group 1 - Manasi, Nivedha, Tirth, Jay, Ashita
 ---
 Star Wars API
 - https://swapi.co/documentation
@@ -122,11 +123,19 @@ MetaWeather API
 ##### GROUP 1 - Russell, Hue, MingYang, Raymond Chen, Walter Carbajal
 
 ---
+Reddit
+- https://www.reddit.com/dev/api
+
+##### Group 1 - Hieu, Michael, Antonio, Edwin
+
+---
 Github
 - https://developer.github.com/v3/
 ---
 Goodreads API
 - https://www.goodreads.com/api
+
+##### Group 1 - Safa, Saba, Jose, Teky, Alvin
 ---
 Zomato (Resturant API)
 - https://developers.zomato.com/documentation#/
