@@ -151,6 +151,13 @@ Yelp API
 ##### Group 2 - Barry, Jose, Juan, Xiaoye, Jesus
 
 ---
+
+Ebay
+- http://developer.ebay.com/devzone/finding/concepts/FindingAPIGuide.html
+
+##### Group 1 -  Calvin, Paul, Jaime, Leonardo, and Rolf
+
+---
 Other APIs
 - https://github.com/toddmotto/public-apis
 
