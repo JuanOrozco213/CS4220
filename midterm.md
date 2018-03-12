@@ -142,6 +142,8 @@ Zomato (Resturant API)
 - https://developers.zomato.com/documentation#/
 
 #### Group 1 - Dhruval, Kunal, Rajat, Ekta
+##### Group 2 - Rohan, Naif, Alejandra, Benjamin, Arun
+
 ---
 
 Yelp API
