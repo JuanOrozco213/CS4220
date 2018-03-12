@@ -103,7 +103,7 @@ Game of Thrones API
 Marvel
 - https://developer.marvel.com/documentation/getting_started
 
-##### Group 1 - Vivek, Lovepreet, Harminder, Rishabh
+##### Group 1 - Vivek, Lovepreet, Harminder, Rishabh, Mohit
 ##### Group 2 - Aaron, Zolangi, Davis, Gonzalo, Benjamin
 
 ---
@@ -162,6 +162,13 @@ Gov Search
 - https://search.gov/developer/jobs.html
 
 ##### Group 1 - Pranil, Karina, Ararat, Olin-mao
+
+---
+
+Oxford Dictionary
+- https://developer.oxforddictionaries.com/documentation
+
+##### Group 1 - Princy, Hiral, Khushboo, Shashikiran
 
 ---
 Other APIs
