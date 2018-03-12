@@ -112,6 +112,8 @@ Comic Vine
 ---
 Internet Gaming DB
 - https://igdb.github.io/api/
+
+##### Group 1 -  Jeffrey, Jose, Alan, Gabriel, Christian
 ---
 GiantBomb (Video Game API)
 - https://www.giantbomb.com/api/documentation
