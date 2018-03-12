@@ -66,8 +66,7 @@ Create a command line interface similar to the example ones from class.
 TV Maze
 - https://www.tvmaze.com/api
 
-##### Group 1 - Damin, Yash, Parth, Abdullah, Hiral
-##### Group 2 - Damin, Yash, Parth, Abdullah 
+##### Group 1 - Damin, Yash, Parth, Abdullah 
 ---
 The Movie Database API
 - https://www.themoviedb.org/documentation/api
