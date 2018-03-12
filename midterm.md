@@ -78,7 +78,7 @@ The Movie Database API
 Spotify
 - https://developer.spotify.com/web-api/
 
-##### Group 1 - Mirasol, Miguel, Matthew, Alyssa, Abbie
+##### Group 1 - Mirasol, Miguel, Matthew, Alyssa, Abbie, Chelle
 ##### Group 2 - Daniel, James, Victor, Tan, Francisco
 ---
 Musikki API
