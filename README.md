@@ -97,7 +97,17 @@ Once registered, you will be invited to join the cs4220-spring-2018 channel.
  - Understand and interacting with APIs
  <br/>
  
-  **Week 8 - 03/25**
+  **Week 7 - 03/11**
+ - Intro to Vue.js <br/>
+ - Rendering, Conditionals, Loops, Handling User Inputs.
+ <br/>
+ 
+  **Week 8 - 03/18**
+ - Introduction to Node.js servers with express.js <br/>
+ - Pairing a Node.js server with Vue.js
+ <br/>
+ 
+  **Week 9 - 03/25**
  - MIDTERM <br/>
  <br/>
 
