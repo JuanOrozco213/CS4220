@@ -132,11 +132,13 @@ Reddit
 ---
 Github
 - https://developer.github.com/v3/
+
+##### Group 1 - Safa, Saba, Jose, Teky, Alvin
 ---
 Goodreads API
 - https://www.goodreads.com/api
 
-##### Group 1 - Safa, Saba, Jose, Teky, Alvin
+
 ---
 Zomato (Resturant API)
 - https://developers.zomato.com/documentation#/
@@ -149,7 +151,7 @@ Zomato (Resturant API)
 Yelp API
 - https://www.yelp.com/developers/documentation/v3
 
-##### Group 1 - Kevin, Cedric, Daniel, Maurice
+##### Group 1 - Kevin, Cedric, Daniel, Maurice, Christopher
 ##### Group 2 - Barry, Jose, Juan, Xiaoye, Jesus
 
 ---
