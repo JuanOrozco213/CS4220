@@ -9,14 +9,6 @@ let cards = new Vue({
         selectedCards: []
     },
     methods: {
-        demo: function () {
-            let vm = this
-            axios.get(`https://deckofcardsapi.com/api/deck?api_key=12345678`)
-                .then(response => {
-                    // something magical
-                    vm.cards = response.data
-                })
-        },
         drawCards: function () {
             let vm = this
             axios.get(`http://localhost:8080/api/draw?number=${this.numberOfCards}&shuffle=${this.shuffle}`)
