@@ -134,10 +134,6 @@ Github
 - https://developer.github.com/v3/
 
 ##### Group 1 - Safa, Saba, Jose, Teky, Alvin
----
-Goodreads API
-- https://www.goodreads.com/api
-
 
 ---
 Zomato (Resturant API)
