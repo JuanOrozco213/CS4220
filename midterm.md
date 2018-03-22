@@ -109,6 +109,10 @@ Marvel
 ---
 Comic Vine
 - https://comicvine.gamespot.com/api/
+
+##### Group 1 - Allen, Ana, Maximiliano, and Leonard
+##### Group 2 - Ammar, Adekola, Parth, Jaishri
+
 ---
 Internet Gaming DB
 - https://igdb.github.io/api/
