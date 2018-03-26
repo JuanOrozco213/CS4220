@@ -169,6 +169,12 @@ Gov Search
 
 ---
 
+---
+Open FDA
+https://open.fda.gov/api/
+##### Group 1 - Sharokh, Ka-Yee, Juan, Evik, Ken, and Robert
+
+---
 Oxford Dictionary
 - https://developer.oxforddictionaries.com/documentation
 
