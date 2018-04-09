@@ -110,6 +110,30 @@ Once registered, you will be invited to join the cs4220-spring-2018 channel.
   **Week 9 - 03/25**
  - MIDTERM <br/>
  <br/>
+ 
+**Week 10 - 04/01**
+ - SPRING BREAK <br/>
+ <br/>
+ 
+ **Week 11 - 04/08**
+ - Working with Components in Vue.js
+ <br/>
+ 
+ **Week 12 - 04/15**
+ - TBA
+ <br/>
+ 
+ **Week 13 - 04/22**
+ - TBA
+ <br/>
+ 
+ **Week 14 - 04/29**
+ - TBA
+ <br/>
+ 
+ **Week 15 & 16 - 05/06 and 05/13**
+ - FINALS
+ <br/>
 
 ### Online Resources
 
