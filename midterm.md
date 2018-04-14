@@ -84,7 +84,6 @@ Spotify
 Musikki API
 - https://music-api.musikki.com/reference
 
-##### Group 1 - Manasi, Nivedha, Tirth, Jay, Ashita
 ---
 Star Wars API
 - https://swapi.co/documentation
@@ -118,6 +117,8 @@ Internet Gaming DB
 - https://igdb.github.io/api/
 
 ##### Group 1 -  Jeffrey, Jose, Alan, Gabriel, Christian
+##### Group 2 - Manasi, Nivedha, Tirth, Jay, Ashita
+
 ---
 GiantBomb (Video Game API)
 - https://www.giantbomb.com/api/documentation
