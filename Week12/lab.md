@@ -17,9 +17,9 @@
       - **NOT** v-bind:src="'http://robohash.org/{{something}}'"
 
 **(3) Add a feature that displays a Welcome message to the user after logged in**
-    - Create a new Vue component that shows the a welcome information
-    - Include the user avatar and username
-        - Use data binding {{ }} for both user name and avatar
+  - Create a new Vue component that shows the a welcome information
+  - Include the user avatar and username
+    - Use data binding {{ }} for both user name and avatar
 
 --- 
 **NOTES**
