@@ -14,15 +14,16 @@
   - Use robohash.org to generate unique avatars based on usernames.
   - Store the avatar information in your `content` object.
     - The avatar image should be displayed using data binding {{ data.avatar }}
-      - **NOT** v-src="http://robohash.org/{{something}}
+      - **NOT** v-bind:src="'http://robohash.org/{{something}}'"
 
 **(3) Add a feature that displays a Welcome message to the user after logged in**
     - Create a new Vue component that shows the a welcome information
     - Include the user avatar and username
         - Use data binding {{ }} for both user name and avatar
 
+--- 
 **NOTES**
-You'll need to make sure your code is working with two browser tabs open.  Just like in the lecture you want to make sure when you join in one tab as 'user A' that you see the welcome message for 'user A'  and then when you join in the second tab as 'user B' you see the welcome message for 'user B'.  Check to make sure that the first tab open still is user A and the second tab is user B.
+You'll need to make sure your code is working with two browser tabs open.  Just like in the lecture you want to make sure when you join in one tab as 'user A' that you see the welcome message for 'user A'  and then when you join in the second tab as 'user B' you see the welcome message for 'user B'.  Check to make sure that the first tab open still shows the correct user A and the second tab is user B.
 
 Try sending messages and making sure the avatars and messages appear correctly for user A and user B.
 
@@ -30,11 +31,11 @@ Try sending messages and making sure the avatars and messages appear correctly f
 #### Sample Screen Shots
 
 (1) User name already exists
-![Q1](/lab-images/user-name-exists.jpg)
+![Q1](/Week12/lab-images/user-name-exists.jpg)
 
 (2) Avatars in Chat Box
-![Q2](/lab-images/user-avatar-chat.jpg)
+![Q2](/Week12/lab-images/user-avatar-chat.jpg)
 
 (3) Welcome Message with Avatar and Name
-![Q3](/lab-images/user-welcome-message.jpg)
+![Q3](/Week12/lab-images/user-welcome-message.jpg)
 
