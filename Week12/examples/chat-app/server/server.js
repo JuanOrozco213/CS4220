@@ -3,8 +3,10 @@ const
     path = require('path')
 
 const
-    app = express()
+    app = express(),
+    server = require('http').Server(app)
 
 app.use(express.static(path.join(__dirname, '..', '/client')))
+require('./sockets')(server)
 
-app.listen(8080)
+server.listen(8080)
