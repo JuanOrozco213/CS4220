@@ -120,7 +120,8 @@ Once registered, you will be invited to join the cs4220-spring-2018 channel.
  <br/>
  
  **Week 12 - 04/15**
- - TBA
+ - Working with Websockets.
+ - Node.js + Socket.io + Vue.js
  <br/>
  
  **Week 13 - 04/22**
