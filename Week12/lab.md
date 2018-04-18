@@ -13,8 +13,8 @@
 **(2) Add a feature so that every user has a custom avatar**
   - Use robohash.org to generate unique avatars based on usernames.
   - Store the avatar information in your `content` object.
-    - The avatar image should be displayed using data binding {{ data.avatar }}
-      - **NOT** v-bind:src="'http://robohash.org/{{something}}'"
+    - The avatar image should be displayed using data binding v-bind:src=something
+    - **DO NOT INCLUDE THE URL LIKE:** v-bind:src="'http://robohash.org/{{something}}'"
 
 **(3) Add a feature that displays a Welcome message to the user after logged in**
   - Create a new Vue component that shows the a welcome information
