@@ -12,7 +12,7 @@
 
 **(2) Add a feature so that every user has a custom avatar**
   - Use robohash.org to generate unique avatars based on usernames.
-  - Store the avatar information in your `content` object.
+  - Store the avatar information so that it is easily accessible in your `content` or `message` object.
     - The avatar image should be displayed using data binding `v-bind:src=something`
     - **DO NOT INCLUDE THE URL LIKE:** `v-bind:src="'http://robohash.org/{{something}}'"`
 
