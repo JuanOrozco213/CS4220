@@ -125,7 +125,8 @@ Once registered, you will be invited to join the cs4220-spring-2018 channel.
  <br/>
  
  **Week 13 - 04/22**
- - TBA
+ - Understanding NoSQL Databses and Working with Mongo DB
+ - Node.js + Socket.io + Vue.js + Mongo DB
  <br/>
  
  **Week 14 - 04/29**
