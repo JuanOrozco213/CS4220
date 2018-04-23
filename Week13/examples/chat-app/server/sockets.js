@@ -1,58 +1,50 @@
 
-const _findUser = (users, name) => {
-    return users.find(user => {
-        return user.name.toLowerCase() === name.toLowerCase()
-    })
-}
-
-module.exports = (server) => {
+module.exports = (server, db) => {
     const
         io = require('socket.io')(server),
         moment = require('moment')
 
-    let
-        users = [],
-        messages = []
-
     io.on('connection', socket => {
         // when a connection is made - load in the content already present on the server
-        socket.emit('refresh-messages', messages)
-        socket.emit('refresh-users', users)
+        db.allMessages()
+            .then(messages => socket.emit('refresh-messages', messages))
 
+        db.activeUsers()
+            .then(users => socket.emit('refresh-users', users))
 
-        socket.on('join-user', userName => {
-            const found = _findUser(users, userName)
+        // demo code only for sockets + db
+        // in production login/user creation should happen with a POST to https endpoint
+        // upon success - revert to websockets
+        socket.on('create-user', (userName, password) => {
+            // create user
+            db.createUser(userName, password, socket.id)
+                // success
+                .then(created => io.emit('successful-join', created))
+                // error
+                .catch(err => io.emit('failed-join', { name: userName }))
+        })
 
-            if (found)
-                return io.emit('failed-join', userName)
-
-            const user = {
-                id: socket.id,
-                name: userName,
-                avatar: `https://robohash.org/${userName}?set=set3`
-            }
-            users.push(user)
-
-            io.emit('successful-join', user)
+        socket.on('join-user', (userName, password) => {
+            // login
+            db.loginUser(userName, password, socket.id)
+                // success
+                .then(created => io.emit('successful-join', created))
+                // error
+                .catch(err => io.emit('failed-join', { name: userName }))
         })
 
         socket.on('send-message', data => {
-            const content = {
-                user: data.user,
-                message: data.message,
-                date: moment(new Date()).format('MM/DD/YY h:mm a')
-            }
-            messages.push(content)
-
-            io.emit('successful-message', content)
+            // create the message and add db
+            db.createMessage(data)
+                .then(created => io.emit('successful-message', created))
         })
 
         socket.on('disconnect', () => {
-            users = users.filter(user => {
-                return user.id != socket.id
-            })
-
-            io.emit('refresh-users', users)
+            // logout the user
+            db.logoutUser(socket.id)
+                // update the actives
+                .then(() => db.activeUsers())
+                .then(users => io.emit('refresh-users', users))
         })
     })
 }
