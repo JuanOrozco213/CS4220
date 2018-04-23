@@ -11,10 +11,11 @@ Your server should use the custom module built for the midterm.  Create a fronte
 - Have an input field the User types into.
 - When the search results are return, present the user with a list of results.
     - ONLY display a result set that is 10 or fewer
-- When the User selects the result, navigate to a Details Page and display the details of the result.
+- When the User selects the result, show the Details of the selected result.
 - The details should be formatted cleanly. So that it is easily readable.
     - DO NOT display JSON structures.
 - The details should include an image and if no image is present uses a default image.
+- Allow the user to have the option to search again.
 
 
 ### Extra Credit - Synchronization (10pts)
