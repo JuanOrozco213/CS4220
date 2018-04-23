@@ -91,6 +91,10 @@ The frontend should allow for user interaction - button clicks, input, forms, up
     - not hard coding
     - not using global variables
     - etc
-
+    
+**Extra Credit**
+  - Not required.
+  - Applied to the Project portion of the grade.
+  
 The more code your write, does not mean a good grade. The code written and submitted as the project should be clean, well written and not necessarily verbose.
 
