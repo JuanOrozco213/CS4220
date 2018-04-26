@@ -19,5 +19,5 @@ Your server should use the custom module built for the midterm.  Create a fronte
 
 
 ### Extra Credit - Synchronization (10pts)
-- Whenever a search is performed add it to a list of previous searches. The UI should be display the previous searches in real-time.  This list should be clickable and take the User to a details page.
+- Whenever a search is performed add it to a list of previous searches. The UI should be display the previous searches in real-time.  This list should be clickable and take the User to a search results page.
 - To receive credit - you must accomplish this with WebSockets.
