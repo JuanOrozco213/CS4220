@@ -102,7 +102,9 @@ The more code your write, does not mean a good grade. The code written and submi
 
 ## [Presentations](#presentations)
 
-#### **Presenting 05/06 (in no particular order)**
+*Presentations can be on any valid Final option.  The list is based off the midterm groups topics.
+
+#### **Presenting 05/06 (in no particular order )**
   - ToDo Web Application - Safa, Saba, Jose, Teky, Alvin
 
   - Open FDA - Robert,  Ben, Avik, Ken, Sharouk, Kayee
