@@ -98,3 +98,62 @@ The frontend should allow for user interaction - button clicks, input, forms, up
   
 The more code your write, does not mean a good grade. The code written and submitted as the project should be clean, well written and not necessarily verbose.
 
+---
+
+## [Presentations](#presentations)
+
+#### **Presenting 05/06 (in no particular order)**
+---
+(1) ToDo Web Application - Safa, Saba, Jose, Teky, Alvin
+
+(2) Open FDA - Robert,  Ben, Avik, Ken, Sharouk, Kayee
+
+(3) Gov Search - Pranil, Karina, Ararat, Olin-mao
+
+(4) Reddit - Hieu, Michael, Antonio, Edwin
+
+(5) Yelp - Kevin, Cedric, Daniel, Maurice, Christopher
+
+(6) Zomato - Rohan, Naif, Alejandra, Benjamin, Arun
+
+(7) MetaWeather - Russell, Hue, MingYang, Raymond Chen, Walter Carbajal
+
+(8) Spotify - Mirasol, Miguel, Matthew, Alyssa, Abbie, Chelle
+
+(9) Star Wars -  Brian, Oz, Angelo, Juan, Julio
+
+(10) Ebay -  Calvin, Paul, Jaime, Leonardo, and Rolf
+
+(11) Marvel - Vivek, Lovepreet, Harminder, Rishabh, Mohit
+
+(12) Spotify - Daniel, James, Victor, Tan, Francisco
+
+
+#### **Presenting 05/13 (in no particular order)**
+---
+
+(1) Yelp - Barry, Jose, Juan, Xiaoye, Jesus
+
+(2) Star Wars - Bryan, Patrick, Gevorg, Kevin
+
+(3) TV Maze - Damin, Yash, Parth, Abdullah
+
+(4) Oxford - Princy, Hiral, Khushboo, Shashikiran
+
+(5) IG DB - Manasi, Nivedha, Tirth, Jay, Ashita
+
+(6) Zomato - Dhruval, Kunal, Rajat, Ekta
+
+(7) Comic Vine - Ammar, Adekola, Parth, Jaishri
+
+(8) IG DB - Jeffrey, Jose, Alan, Gabriel, Christian
+
+(9) Movie DB - Bijan, Victor, Vitou, and Shivakumar
+
+(10) GOT - Justin, Henry, Jonathan, Daniel
+
+(11) Marvel - Aaron, Zolangi, Davis, Gonzalo, Benjamin
+
+(12) Comic Vine - Allen, Ana, Maximiliano, and Leonard
+
+(13) Movie DB - Angie, William, Alisha, Jurelly, Daniel
