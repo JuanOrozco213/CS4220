@@ -103,7 +103,6 @@ The more code your write, does not mean a good grade. The code written and submi
 ## [Presentations](#presentations)
 
 #### **Presenting 05/06 (in no particular order)**
----
 (1) ToDo Web Application - Safa, Saba, Jose, Teky, Alvin
 
 (2) Open FDA - Robert,  Ben, Avik, Ken, Sharouk, Kayee
@@ -128,9 +127,8 @@ The more code your write, does not mean a good grade. The code written and submi
 
 (12) Spotify - Daniel, James, Victor, Tan, Francisco
 
-
-#### **Presenting 05/13 (in no particular order)**
 ---
+#### **Presenting 05/13 (in no particular order)**
 
 (1) Yelp - Barry, Jose, Juan, Xiaoye, Jesus
 
