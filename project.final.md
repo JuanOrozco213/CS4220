@@ -107,7 +107,7 @@ The more code your write, does not mean a good grade. The code written and submi
 #### **Presenting 05/06 (in no particular order )**
   - ToDo Web Application - Safa, Saba, Jose, Teky, Alvin
 
-  - Open FDA - Robert,  Ben, Avik, Ken, Sharouk, Kayee
+  - Open FDA - Robert,  Ben, Avik, Ken, Sharouk, Kayee, Juan
 
   - Gov Search - Pranil, Karina, Ararat, Olin-mao
 
